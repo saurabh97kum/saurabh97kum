@@ -49,9 +49,8 @@ I’m excited to deepen my skills by working on real-world projects such as:
 
 ## 🧪 Work in Progress
 
-A growing data science portfolio:
+- More ML projects coming soon, based on continued learning through Kaggle and Coursera.
 
-- [kumar-ds-projects](https://github.com/saurabh97kum/kumar-ds-projects) 
 
 ---
 
