@@ -6,6 +6,15 @@ I'm a theoretical physics PhD transitioning into data science and machine learni
 
 ## 💡 What I’ve Learned & Next Steps
 
+I have completed the following courses and certifications, which have helped me build a solid foundation:
+
+- [Python (Kaggle)](https://www.kaggle.com/learn/certification/saurabhkumar97/python)  
+- [Pandas (Kaggle)](https://www.kaggle.com/learn/certification/saurabhkumar97/pandas)  
+- [Intro to SQL (Kaggle)](https://www.kaggle.com/learn/certification/saurabhkumar97/intro-to-sql)  
+- [Advanced SQL (Kaggle)](https://www.kaggle.com/learn/certification/saurabhkumar97/advanced-sql)  
+- [Machine Learning Specialization (Coursera)](https://www.coursera.org/account/accomplishments/verify/XR33PD2FNYK0)  
+- [Advanced Learning Algorithms (Coursera)](https://www.coursera.org/account/accomplishments/verify/EA59HS4TKZH8)  
+
 Through these courses, I’ve gained strong foundations in:
 
 - Python programming and data manipulation with Pandas  
@@ -46,11 +55,12 @@ A growing data science portfolio:
 
 ---
 
-## 📚 Certifications
+## 📫 Let's Connect
 
-- [Python](https://www.kaggle.com/learn/certification/saurabhkumar97/python)  
-- [Pandas](https://www.kaggle.com/learn/certification/saurabhkumar97/pandas)  
-- [Intro to SQL](https://www.kaggle.com/learn/certification/saurabhkumar97/intro-to-sql)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-853546147/)  
+- 📧 [Email](mailto:saurabh97kum@gmail.com)
+
+ 
 - [Advanced SQL](https://www.kaggle.com/learn/certification/saurabhkumar97/advanced-sql)  
 - [Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/verify/XR33PD2FNYK0)  
 - [Advanced Learning Algorithms - Coursera](https://www.coursera.org/account/accomplishments/verify/EA59HS4TKZH8)  
