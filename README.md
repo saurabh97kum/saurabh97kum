@@ -22,7 +22,7 @@ Through these courses, I’ve gained strong foundations in:
 - Building and tuning machine learning models with TensorFlow and scikit-learn  
 - Understanding deep learning architectures like CNNs and optimization techniques  
 
-I’m excited to deepen my skills by working on real-world projects such as:
+I'm excited to deepen my skills by working on real-world projects such as:
 
 - Image classification and model interpretability  
 - Deploying ML models as web apps using Streamlit or Flask  
@@ -51,11 +51,9 @@ I’m excited to deepen my skills by working on real-world projects such as:
 
 - More ML projects coming soon, based on continued learning through Kaggle and Coursera.
 
-
 ---
 
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-853546147/)  
-- 📧 [Email](mailto:saurabh97kum@gmail.com)
-
+- 📧 [saurabh97kum@gmail.com](mailto:saurabh97kum@gmail.com)
