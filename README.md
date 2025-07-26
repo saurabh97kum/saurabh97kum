@@ -60,15 +60,3 @@ A growing data science portfolio:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-853546147/)  
 - 📧 [Email](mailto:saurabh97kum@gmail.com)
 
- 
-- [Advanced SQL](https://www.kaggle.com/learn/certification/saurabhkumar97/advanced-sql)  
-- [Machine Learning Specialization - Coursera](https://www.coursera.org/account/accomplishments/verify/XR33PD2FNYK0)  
-- [Advanced Learning Algorithms - Coursera](https://www.coursera.org/account/accomplishments/verify/EA59HS4TKZH8)  
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-853546147/)  
-- 📧 [Email](mailto:saurabh97kum@gmail.com)
-
