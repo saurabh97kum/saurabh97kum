@@ -32,6 +32,6 @@ A growing data science portfolio:
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-853546147/)
-- 📧 [Email](saurabh97kum@gmail.com)
+- 📧 [Email](mailto: saurabh97kum@gmail.com)
 
 ---
